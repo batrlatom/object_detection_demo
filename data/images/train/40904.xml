@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1267270233</folder>
+	<filename>40904.jpg</filename>
+	<path>/home/tom/Devel/recall/data/shop_dataset/apparel/men-watches/1267270233/40904.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>men_watches</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>61</ymin>
+			<xmax>510</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>

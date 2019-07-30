@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>213515.jpg</filename>
+	<path>/home/tom/Downloads/object_detection_demo-master/data/images/new/213515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>99</ymin>
+			<xmax>734</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>

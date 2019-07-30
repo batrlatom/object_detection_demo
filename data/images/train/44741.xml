@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>44741.jpg</filename>
+	<path>/home/tom/Downloads/object_detection_demo-master/data/images/train/44741.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>801</width>
+		<height>801</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>men-shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>291</ymin>
+			<xmax>750</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

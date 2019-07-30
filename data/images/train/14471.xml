@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>14471.jpg</filename>
+	<path>/home/tom/Devel/testing/Tensorflow/aliexpress_training/images/14471.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>men_watches</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>94</ymin>
+			<xmax>302</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

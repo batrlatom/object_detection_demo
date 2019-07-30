@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>191423701347952103.jpg</filename>
+	<path>/home/tom/Downloads/object_detection_demo-master/data/images/new/191423701347952103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shirts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>53</ymin>
+			<xmax>360</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

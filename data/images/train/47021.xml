@@ -1,0 +1,26 @@
+<annotation>
+	<folder>women-boots</folder>
+	<filename>47021.jpg</filename>
+	<path>/home/tom/Devel/recall/data/object_detection_data/women-boots/47021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>women-boots</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>89</ymin>
+			<xmax>559</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
